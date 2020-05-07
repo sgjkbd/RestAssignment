@@ -1,0 +1,19 @@
+customerID: 2 transactionAmount: 710 points: 1270 date: 2020-04-20
+customerID: 1 transactionAmount: 655 points: 1160 date: 2020-01-14
+customerID: 1 transactionAmount: 557 points: 964 date: 2020-02-04
+customerID: 2 transactionAmount: 444 points: 738 date: 2020-05-11
+customerID: 2 transactionAmount: 916 points: 1682 date: 2020-01-22
+customerID: 2 transactionAmount: 971 points: 1792 date: 2020-01-25
+customerID: 1 transactionAmount: 148 points: 146 date: 2020-01-07
+customerID: 2 transactionAmount: 553 points: 956 date: 2020-04-17
+customerID: 1 transactionAmount: 884 points: 1618 date: 2020-02-19
+customerID: 1 transactionAmount: 732 points: 1314 date: 2020-05-06
+1st month
+customer 1 earned 1618 points
+2nd month
+3rd month
+customer 2 earned 2226 points
+customer 1 earned 1314 points
+Total
+customer 2 earned 2226 points
+customer 1 earned 2932 points
